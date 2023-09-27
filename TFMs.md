@@ -1,9 +1,10 @@
 # TFMs para asignar
 
 DS (25)
-- 2 Arturo
-- 3 Pablo Ortiz
--
+- 1 Arturo
+- 6 Pablo Ortiz
+- 4 Adrián
+- 2 Carol
 
 Web (18)
 - 5 Carlos
